@@ -1,0 +1,34 @@
+.title {
+    background-color: lightgoldenrodyellow;
+    color: navy;
+    border: solid;
+}
+body {
+    background-color: burlywood;
+}
+.menu {
+    border: solid;
+    color: goldenrod;
+    background-color:gold ;
+}
+.images {
+    color: navy;
+    background-color: palegoldenrod;
+}
+.latestnews {
+    border: solid;
+    color: navy;
+}
+.journey {
+    background-color: lightgoldenrodyellow;
+    border: solid;
+}
+H1 {
+    color: navy;
+    background-color: oldlace;
+    border: solid;
+}
+h2 {
+    background-color: navy;
+    color: white;
+}
